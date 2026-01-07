@@ -13,7 +13,8 @@ We study a lifelong reinforcement learning approach that enables knowledge trans
 Reproducible simulations and baselines will be released incrementally.
 
 ## Reference
-If you use this code, please cite the corresponding paper.
+If you use this code, please cite the associated paper.  
+The BibTeX entry is provided in `citation.bib`.
 
 ## Paper
 This repository accompanies the following paper:
